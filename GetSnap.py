@@ -4,8 +4,8 @@ import json
 
 # Vars
 imagga_url = 'https://api.imagga.com/v2/tags'
-api_key = 'YOUR_API_KEY'
-api_secret = 'YOUR_API_SECRET'
+api_key = 'acc_2080c1e9a314b45'
+api_secret = '34a8056f023a8e1ebe8e744d22b6a7b5'
 
 # Helper functions
 def setHeaders_meraki():
